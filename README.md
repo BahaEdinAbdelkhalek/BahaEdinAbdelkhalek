@@ -29,10 +29,9 @@ Building cloud platforms, real-time dashboards, and event-driven data systems. C
 
 I work across the full path from ingestion to insight: connecting cloud and business APIs, normalizing event data, building services and dashboards, and adding monitoring so teams can act on what they see. My main interests are cloud engineering, data platforms, real-time systems, and observability.
 
-## Selected projects
+### CareerSignal · Internship contact discovery
+Building a CV-to-outreach product that analyzes a candidate profile, finds relevant companies and HR contacts, and prepares personalized email drafts. The public frontend runs with fictional demo data; live browser access remains disabled until a secure authenticated API layer is in place.
 
-### Eclaire Cloud · Multi-cloud cost and operations dashboard
-Built an Angular dashboard for live cloud KPIs, cost forecasts, savings recommendations, and approval workflows. The platform connects AWS, Azure, and GCP data sources, uses Azure Event Hubs and on-demand SQS for event processing, and runs its .NET services on Azure Container Apps with Cosmos DB. It also includes Grafana monitoring, Keycloak-based organization isolation, and AI-assisted recommendations with sensitive-data filtering.
 
 ### ResilientBank · Resilience and incident monitoring
 Working with a teammate on a Kubernetes-based banking resilience platform combining fault injection, TLA+ verification, anomaly detection, and FinOps. Built monitoring labs with kind/minikube, Chaos Mesh, and Prometheus to surface incidents and produce structured reports.
@@ -43,11 +42,7 @@ Designed an AWS job-processing pipeline using API Gateway, SQS queues and dead-l
 ### TerraCarbon · Carbon-aware Azure infrastructure
 Provisioned modular Azure infrastructure with Terraform, with a focus on repeatable deployments and balancing cloud cost with carbon impact.
 
-### Kamka-Todo · Full-stack application on Azure
-Built an Angular and GraphQL application with an Express backend, PostgreSQL, and Redis. Containerized the services with Docker and automated deployment using GitHub Actions.
 
-### CareerSignal · Internship contact discovery
-Building a CV-to-outreach product that analyzes a candidate profile, finds relevant companies and HR contacts, and prepares personalized email drafts. The public frontend runs with fictional demo data; live browser access remains disabled until a secure authenticated API layer is in place.
 
 ## Experience and education
 
